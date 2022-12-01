@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Juegos.Interfaces;
 
 namespace Juegos
 {
@@ -15,6 +16,22 @@ namespace Juegos
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void radioButton2_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void radioButton1_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn1_Click(object sender, EventArgs e)
+        {
+            Ahorcado Interfaz1 = new Ahorcado();
+            Interfaz1.Show();
         }
     }
 }

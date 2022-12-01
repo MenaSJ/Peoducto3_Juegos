@@ -1,0 +1,11 @@
+C:\Users\Mena_\OneDrive\Documents\GitHub\Peoducto3_Juegos\Juegos\bin\Debug\Juegos.exe.config
+C:\Users\Mena_\OneDrive\Documents\GitHub\Peoducto3_Juegos\Juegos\bin\Debug\Juegos.exe
+C:\Users\Mena_\OneDrive\Documents\GitHub\Peoducto3_Juegos\Juegos\bin\Debug\Juegos.pdb
+C:\Users\Mena_\OneDrive\Documents\GitHub\Peoducto3_Juegos\Juegos\obj\Debug\Juegos.csproj.AssemblyReference.cache
+C:\Users\Mena_\OneDrive\Documents\GitHub\Peoducto3_Juegos\Juegos\obj\Debug\Juegos.Form1.resources
+C:\Users\Mena_\OneDrive\Documents\GitHub\Peoducto3_Juegos\Juegos\obj\Debug\Juegos.Interfaces.Ahorcado.resources
+C:\Users\Mena_\OneDrive\Documents\GitHub\Peoducto3_Juegos\Juegos\obj\Debug\Juegos.Properties.Resources.resources
+C:\Users\Mena_\OneDrive\Documents\GitHub\Peoducto3_Juegos\Juegos\obj\Debug\Juegos.csproj.GenerateResource.cache
+C:\Users\Mena_\OneDrive\Documents\GitHub\Peoducto3_Juegos\Juegos\obj\Debug\Juegos.csproj.CoreCompileInputs.cache
+C:\Users\Mena_\OneDrive\Documents\GitHub\Peoducto3_Juegos\Juegos\obj\Debug\Juegos.exe
+C:\Users\Mena_\OneDrive\Documents\GitHub\Peoducto3_Juegos\Juegos\obj\Debug\Juegos.pdb
