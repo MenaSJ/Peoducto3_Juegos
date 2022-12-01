@@ -41,10 +41,12 @@ namespace Juegos
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.rbtn1.AutoSize = true;
+            this.rbtn1.Checked = true;
             this.rbtn1.Location = new System.Drawing.Point(13, 49);
             this.rbtn1.Name = "rbtn1";
             this.rbtn1.Size = new System.Drawing.Size(80, 21);
             this.rbtn1.TabIndex = 0;
+            this.rbtn1.TabStop = true;
             this.rbtn1.Text = "Juego 1";
             this.rbtn1.UseVisualStyleBackColor = true;
             this.rbtn1.CheckedChanged += new System.EventHandler(this.radioButton1_CheckedChanged);
