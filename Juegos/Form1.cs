@@ -32,6 +32,7 @@ namespace Juegos
         {
             Ahorcado Interfaz1 = new Ahorcado();
             Interfaz1.Show();
+            string asdf = "asd";
         }
     }
 }
